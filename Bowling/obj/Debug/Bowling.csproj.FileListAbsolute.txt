@@ -6,3 +6,11 @@ C:\development\Bowling\Bowling\bin\Debug\nunit.framework.xml
 C:\development\Bowling\Bowling\obj\Debug\Bowling.csprojResolveAssemblyReference.cache
 C:\development\Bowling\Bowling\obj\Debug\Bowling.dll
 C:\development\Bowling\Bowling\obj\Debug\Bowling.pdb
+C:\development\github\BowlingGame\Bowling\bin\Debug\Bowling.dll
+C:\development\github\BowlingGame\Bowling\bin\Debug\Bowling.pdb
+C:\development\github\BowlingGame\Bowling\bin\Debug\nunit.framework.dll
+C:\development\github\BowlingGame\Bowling\bin\Debug\Shouldly.dll
+C:\development\github\BowlingGame\Bowling\bin\Debug\nunit.framework.xml
+C:\development\github\BowlingGame\Bowling\obj\Debug\Bowling.csprojResolveAssemblyReference.cache
+C:\development\github\BowlingGame\Bowling\obj\Debug\Bowling.dll
+C:\development\github\BowlingGame\Bowling\obj\Debug\Bowling.pdb

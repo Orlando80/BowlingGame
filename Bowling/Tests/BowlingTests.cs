@@ -117,4 +117,27 @@ namespace Bowling.Tests
             _game.Score().ShouldBe(300);
         }
     }
+
+    [TestFixture]
+    public class When_strike_in_the_last_frame
+    {
+        readonly BowlingGame _game = new BowlingGame();
+
+        [SetUp]
+        public void Setup()
+        {
+            for (var i = 0; i < 18; i++)
+            {
+                _game.Roll(0);
+            }
+            _game.Roll(10);
+            _game.Roll(10);
+            _game.Roll(10);
+        }
+        [Test]
+        public void it_should_scoore_three_hundred()
+        {
+            _game.Score().ShouldBe(30);
+        }
+    }
 }
