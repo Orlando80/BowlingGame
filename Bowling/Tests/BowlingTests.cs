@@ -135,7 +135,7 @@ namespace Bowling.Tests
             _game.Roll(10);
         }
         [Test]
-        public void it_should_scoore_thirty()
+        public void it_should_score_thirty()
         {
             _game.Score().ShouldBe(30);
         }
